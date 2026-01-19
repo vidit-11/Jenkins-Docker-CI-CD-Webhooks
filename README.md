@@ -1,4 +1,4 @@
-# Jenkins-Docker-cicd-Webhooks
+# Jenkins-Docker-CI-CD-Webhooks
 
 This repository provides a comprehensive guide to setting up a multi-stage Java CI/CD pipeline using a Jenkins Master-Slave architecture, GitHub Webhooks for automation, and Docker Hub for image hosting.
 ### Step 1: Infrastructure & Security Setup
